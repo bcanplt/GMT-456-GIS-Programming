@@ -5,7 +5,7 @@ Developers:
 Okan Demirbilek & Baran Canpolat
 
 ## I. Calculation Min and Max Distance
-![Settings Window](https://github.com/bcanplt/GMT-456-GIS-Programming/tree/master/midterm_projects/2020-21/img/Group6-Img/Group6-Img/2.PNG)
+![Settings Window](https://github.com/banbar/GMT-456-GIS-Programming/blob/master/midterm_projects/2020-21/img/Group6-Img/Group6-Img/2.PNG)
 
 ## II. Detect Center Point (Centroids) From Polygons
-![Settings Window](https://github.com/bcanplt/GMT-456-GIS-Programming/tree/master/midterm_projects/2020-21/img/Group6-Img/Group6-Img/1.PNG)
+![Settings Window](https://github.com/banbar/GMT-456-GIS-Programming/blob/master/midterm_projects/2020-21/img/Group6-Img/Group6-Img/1.PNG)
